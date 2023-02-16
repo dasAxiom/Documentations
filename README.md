@@ -4,6 +4,6 @@ Documentation Team:
   Nikhil Raj
   Navami Vipith Kumar
   Arya C Prajeesh
-  M<eera T Ramesh
+  Meera T Ramesh
   Navaneeth
   Aarsha Nair
